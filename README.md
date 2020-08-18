@@ -1,24 +1,13 @@
 # Seja Bem-Vindo!
-
- Aqui, no GitHub, é possível compartilhar ideias e projetos. 
+|| [Website do Repositório](https://debrites.github.io/) || [Instagram](https://www.instagram.com/britescaio/) || [Twitter](https://twitter.com/OdeBrites) || [LinkedIn](https://www.linkedin.com/in/caio-fernandes-a9557316b/) ||
+---
+Logo abaixo se encontra a **resolução dos Exercícios e Desafios propostos** no GitHub do professor *Gustavo Guanabara* e pelo canal do *Curso em Vídeo.*
  
- Assim, *compartilho também todo o meu conhecimento possível que possa contribuir com cada um*.
- 
- Logo abaixo verá novidades e links para a minha ***página inicial ainda em desenvolvimento*** e também para os ***cursos de programação*** que eu estudo periódicamente que são **totalmente gratuitos**, além de alguns de meus projetos e links para ***livros de ensino médio e faculdade de exatas gratuitos e prontos para download direto do meu Drive público!***
- 
-## Novidades!
-
- * [Últimos desafios de HTML 10, 11 e 12 atualizados!](https://debrites.github.io/Trabalhos-Propostos/HTML5-CSS3/Exercicios/desafiosHTML.html)
-
-## Repositório de Trabalhos Propostos
-
- Neste repósitorio se encontra a **resolução dos Exercícios e Desafios propostos** no GitHub do professor *Gustavo Guanabara* e pelo canal do *Curso em Vídeo.*
- 
- * **Links úteis:**
+ * **Links Úteis:**
     
-    * *Página feita a partir de todos os* [Exercícios de HTML5 e CSS3](https://debrites.github.io/Trabalhos-Propostos/HTML5-CSS3/Exercicios/ExerciciosAllInOne.html).
-    * *Execute aqui os* [Desafios de HTML5 e CSS3](https://debrites.github.io/Trabalhos-Propostos/HTML5-CSS3/Exercicios/desafiosHTML.html).
-    * *Repositório de aulas e exercícios do GitHub do* [Gustavo Guanabara](https://gustavoguanabara.github.io/).
+    * [Exercícios de HTML5 e CSS3](https://debrites.github.io/Trabalhos-Propostos/HTML5-CSS3/Exercicios/ExerciciosAllInOne.html).
+    * [Desafios de HTML5 e CSS3](https://debrites.github.io/Trabalhos-Propostos/HTML5-CSS3/Exercicios/desafiosHTML.html).
+    * [Gustavo Guanabara](https://gustavoguanabara.github.io/).
     * *Todas as Playlists do* [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/playlists).
     * ***Link Extra:*** *Acesso ao meu Drive com livros* [Didáticos e Gratuitos!](https://drive.google.com/drive/u/0/folders/1NqwFMmZvjkBkcjW33Wy_qtKN4GqLqK07)
 
@@ -27,13 +16,21 @@
 >Além de que os livros de Eletrônica *servirá também para os alunos de Ensino técnico*.
 >***Bons Estudos!***
 
-## Repositório para os Próximos Projetos
+ Aqui, no GitHub, é possível compartilhar ideias e projetos. 
+ 
+ Assim, *compartilho também todo o meu conhecimento possível que possa contribuir com cada um*.
+ 
+ Os links levam para a minha ***página inicial ainda em desenvolvimento*** e também para os ***cursos de programação*** que eu estudo periódicamente que são **totalmente gratuitos**, além de alguns de meus projetos e para os ***livros de ensino médio e faculdade de exatas gratuitos e prontos para download direto do meu Drive público!***
+ 
+## Últimas Atualizações!
 
-* **Projetos em Desenvolvimento:**
+ * [Últimos desafios de HTML 10, 11 e 12 atualizados!](https://debrites.github.io/Trabalhos-Propostos/HTML5-CSS3/Exercicios/desafiosHTML.html)
+
+## Projetos em Desenvolvimento:
     
-    * *Site para cração de simulados com exercícios de quaisquer livros.*
-    * *Resolução dos Exercícios e Desafios de Javascript.*
-    * *Resolução dos Exercícios e Desafios de Python.*
-    * *Site próprio com nova interface gráfica e atualizada.*
+  * *Site para cração de simulados com exercícios de quaisquer livros.*
+  * *Resolução dos Exercícios e Desafios de Javascript.*
+  * *Resolução dos Exercícios e Desafios de Python.*
+  * *Site próprio com nova interface gráfica e atualizada.*
 
     
