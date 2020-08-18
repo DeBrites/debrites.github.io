@@ -1,6 +1,7 @@
 # Seja Bem-Vindo!
 || [Website do Repositório](https://debrites.github.io/) || [Instagram](https://www.instagram.com/britescaio/) || [Twitter](https://twitter.com/OdeBrites) || [LinkedIn](https://www.linkedin.com/in/caio-fernandes-a9557316b/) ||
 ---
+
 Logo abaixo se encontra a **resolução dos Exercícios e Desafios propostos** no GitHub do professor *Gustavo Guanabara* e pelo canal do *Curso em Vídeo.*
  
  * **Links Úteis:**
