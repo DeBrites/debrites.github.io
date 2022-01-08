@@ -6,7 +6,7 @@ Logo abaixo se encontra a **resolução dos Exercícios e Desafios propostos** n
  
  * **Links Úteis:**
     
-    * [Site Wordpress Carla Brites Fotografia](https://debrites.github.io/versaoteste/).
+    * [Site Wordpress Carla Brites Fotografia](https://www.carlabrites.com.br/).
     * [Exercícios de HTML5 e CSS3](https://debrites.github.io/exerciciosedesafios/HTML5-CSS3/Exercicios/ExerciciosAllInOne.html).
     * [Desafios de HTML5 e CSS3](https://debrites.github.io/exerciciosedesafios/HTML5-CSS3/Exercicios/desafiosHTML.html).
     * [Simulador de Provas](https://debrites.github.io/simuladordeprovas/sitedosimulador/simu.html)
@@ -27,6 +27,7 @@ Logo abaixo se encontra a **resolução dos Exercícios e Desafios propostos** n
  
 ## Últimas Atualizações!
  
+ * [Site Wordpress Carla Brites Fotografia](https://www.carlabrites.com.br/)
  * [Simulador de Provas!](https://debrites.github.io/simuladordeprovas/sitedosimulador/simu.html)
  * [Últimos desafios de HTML 10, 11 e 12 atualizados!](https://debrites.github.io/exerciciosedesafios/HTML5-CSS3/Exercicios/desafiosHTML.html)
 
